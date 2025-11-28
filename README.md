@@ -1,9 +1,9 @@
-#🤖 Robotics
+🤖 Robotics
 
 A collection of my robotics projects, experiments, and class work.
 This repository focuses on learning how robots sense their environment, move correctly, and make decisions using simple logic.
 
-#📘 Overview
+📘 Overview
 
 This repo contains:
 
@@ -19,7 +19,7 @@ Personal experiments and prototype ideas
 
 Everything here helps me understand how real robots behave through hands-on practice.
 
-#🧱 Project Categories
+🧱 Project Categories
 1. Sensors
 
 Experiments with:
@@ -58,7 +58,7 @@ Wall-following experiments
 
 Unfinished sketches, ideas, or quick tests that may turn into full projects later.
 
-#🔧 Tools I Use
+🔧 Tools I Use
 
 Arduino IDE
 
@@ -68,7 +68,7 @@ Tinkercad Circuits
 
 Breadboards, motors, sensors, and basic robotics components
 
-#🎯 Learning Goals
+🎯 Learning Goals
 
 I use this repo to improve:
 
@@ -82,7 +82,7 @@ Clean and organized Arduino code
 
 Understanding how robots react in real situations
 
-#📂 Folder Structure
+📂 Folder Structure
 
 Example structure you may find here:
 
@@ -97,7 +97,7 @@ robotics/
 
 Folders may grow or change as projects get updated.
 
-#💬 Feedback
+💬 Feedback
 
 If you have ideas, suggestions, or improvements, feel free to open an issue or comment.
 
